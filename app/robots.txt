@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daadatech.com/sitemap.xml
